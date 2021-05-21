@@ -1,7 +1,7 @@
 package com;
 
 public class add_two_num {
-
+//program
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int i=5;
